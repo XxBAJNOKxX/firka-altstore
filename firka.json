@@ -1,0 +1,35 @@
+{
+  "name": "Firka",
+  "identifier": "app.firka.source",
+  "iconURL": "https://raw.githubusercontent.com/QwIT-Development/app-legacy/master/refilc/assets/icons/ic_rounded.png",
+  "subtitle": "Nem hivatalos e-napló alkalmazás",
+  "description": "Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanulóknak.",
+  "apps": [
+    {
+      "name": "Firka",
+      "developerName": "QwIT Development",
+      "bundleIdentifier": "app.firka.refilc",
+      "localizedDescription": "Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanulóknak.",
+      "iconURL": "https://raw.githubusercontent.com/QwIT-Development/app-legacy/master/refilc/assets/icons/ic_rounded.png",
+      "downloadURL": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5patch1/firkaapp.ipa",
+      "versions": [
+        {
+          "version": "5.1.5-patch1",
+          "date": "2025-03-29T20:31:24Z",
+          "size": 45000000,
+          "downloadURL": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5patch1/firkaapp.ipa",
+          "localizedDescription": "Javított szellem jegyek tantárgy oldalon"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "The app requires the camera access to set a custom profile picture.",
+          "NSPhotoLibraryUsageDescription": "The app requires the photo library to set a custom profile picture."
+        }
+      }
+    }
+  ],
+  "lastUpdated": "2025-03-29T20:31:24Z",
+  "maintainer": "XxBAJNOKxX"
+}
