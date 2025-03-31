@@ -7,7 +7,7 @@
     {
       "name": "Firka",
       "dev": "QwIT-Development",
-      "version": "5.1.5 patch 1",
+      "version": "5.1.4",
       "icon": "https://raw.githubusercontent.com/QwIT-Development/app-legacy/2d22a8de31de8a46424a3a3dafb686f7f21942d9/dave.gif",
       "down": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5patch1/firkaapp.ipa",
       "description": "Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanulóknak. A \"reFilc\" nevű alkalmazás továbbfejlesztett és optimalizáltabb változata.",
