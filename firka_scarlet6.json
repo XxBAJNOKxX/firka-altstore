@@ -1,0 +1,33 @@
+{
+  "name": "Firka",
+  "identifier": "hu.refilc.firka",
+  "sourceURL": "https://github.com/QwIT-Development/app-legacy",
+  "apps": [
+    {
+      "name": "Firka",
+      "bundleIdentifier": "hu.refilc.firka",
+      "developerName": "QwIT Development",
+      "version": "2025.3.31",
+      "versionDate": "2025-03-31T00:29:54Z",
+      "versionDescription": "## Változások\r\n`*` Javított szellem jegyek tantárgy oldalon",
+      "downloadURL": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5patch1/firkaapp.ipa",
+      "localizedDescription": "A \"reFilc\" nevű alkalmazás továbbfejlesztett és optimalizáltabb változata.",
+      "iconURL": "https://avatars.githubusercontent.com/u/199466715?v=4",
+      "tintColor": "#7CA021",
+      "size": 18000000,
+      "screenshotURLs": []
+    }
+  ],
+  "news": [
+    {
+      "title": "Firka 2025.3.31",
+      "identifier": "firka-2025-3-31-release",
+      "caption": "Új verzió elérhető!",
+      "date": "2025-03-31T00:29:54Z",
+      "tintColor": "#7CA021",
+      "imageURL": "https://avatars.githubusercontent.com/u/199466715?v=4",
+      "notify": true,
+      "url": "https://github.com/QwIT-Development/app-legacy/releases/tag/v5.1.5patch1"
+    }
+  ]
+}
