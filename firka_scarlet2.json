@@ -1,0 +1,32 @@
+{
+  "name": "Firka Napló",
+  "identifier": "cloud.qwit.firka",
+  "sourceURL": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5patch1/firkaapp.ipa",
+  "apps": [
+    {
+      "name": "Firka Napló",
+      "bundleIdentifier": "cloud.qwit.firka",
+      "developerName": "QwIT Development",
+      "version": "5.1.5-patch1",
+      "versionDate": "2025-03-02T13:39:53Z",
+      "versionDescription": "Változások:\n- Javított szellem jegyek tantárgy oldalon",
+      "downloadURL": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5patch1/firkaapp.ipa",
+      "localizedDescription": "Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanulóknak.",
+      "iconURL": "https://raw.githubusercontent.com/QwIT-Development/app-legacy/master/dave.gif",
+      "tintColor": "#A7DC22",
+      "size": 20000000,
+      "screenshotURLs": []
+    }
+  ],
+  "news": [
+    {
+      "title": "Firka v5.1.5 patch 1 elérhető!",
+      "identifier": "firka-5.1.5-patch1-release",
+      "caption": "Javított szellem jegyek tantárgy oldalon",
+      "date": "2025-03-02T13:39:53Z",
+      "tintColor": "#A7DC22",
+      "imageURL": "https://raw.githubusercontent.com/QwIT-Development/app-legacy/master/dave.gif",
+      "url": "https://github.com/QwIT-Development/app-legacy/releases/tag/v5.1.5patch1"
+    }
+  ]
+}
